@@ -54,8 +54,29 @@ var comparacaoIdentica = '0' === 0;
 console.log(comparacaoIdentica);
 
 
+//Operadores
 
-//Operadores 
 //adição
+var adicao = 1 + 1;
+console.log(adicao);
 
-var
+//subtração
+var subtracao = 2 - 1;
+console.log(subtracao);
+
+//multiplicação
+var multiplicacao = 2 * 3;
+console.log(multiplicacao);
+
+//Divisão Real
+var divisaoReal = 6 / 2;
+console.log(divisaoReal);
+
+//divisão Inteira ou resto da divisão
+var divisaoInteira = 5 % 2;
+console.log(divisaoInteira); 
+
+//Potencia
+var potenciacao = 2 ** 10;
+console.log(potenciacao);
+
