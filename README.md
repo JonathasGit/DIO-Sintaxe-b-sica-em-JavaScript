@@ -7,7 +7,7 @@ Vamos aprender:
 1 - Apresentação do Curso<br>
 2 - O que danado é JavaScript<br>
 3 - Entendendo Variáveis e seus valores<br>
-     <a href="https://drive.google.com/file/d/1WOfx5PNv6I4edI6XsNhW8KyKLvbbQ1ns/view">Slides da Aula 3</a> 
+     <a href="https://drive.google.com/file/d/1WOfx5PNv6I4edI6XsNhW8KyKLvbbQ1ns/view">Slides da Aula 3</a><br>
 4 - Vetores e Objetos<br>
 5 - Estruturas condicionais<br>
 6 - Funções e suas particularidades<br>
