@@ -31,3 +31,13 @@ console.log(var2);
 
 const constante = 'Valor da Constante'; // Esse tipo de variável precisa de valor a ser declarado, se não da erro.
 console.log(constante)
+
+ var escopoGlobal = 'Global';
+ console.log(escopoGlobal);
+
+ function escopoLocal(){
+     let escopoLocalInterno = 'local';
+     console.log(escopoLocalInterno);
+ }
+ escopoLocal();
+ //console.log(escopoLocalInterno); // Não vai ver a varivel, porque ela é local não global, para resolver isso só colocar o console dentro da funcion
