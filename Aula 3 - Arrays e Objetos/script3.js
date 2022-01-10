@@ -31,3 +31,11 @@ console.log(array2);
 
 //indexOf() – retorna o índice de um valor;
 console.log(array2.indexOf(true));
+
+//splice() – remove ou substitui um item pelo índice;
+array2.splice(0,3);
+console.log(array2);
+
+//slice() – retorna uma parte de um array existente;
+let arrayNovo = array.splice(0,3);
+console.log(arrayNovo);
