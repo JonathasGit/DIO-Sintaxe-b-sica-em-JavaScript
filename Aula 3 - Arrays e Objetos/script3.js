@@ -39,3 +39,25 @@ console.log(array2);
 //slice() – retorna uma parte de um array existente;
 let arrayNovo = array.splice(0,3);
 console.log(arrayNovo);
+
+
+
+
+//Objetos 
+let object = {string: 'string', number: 1, boolean: true, array: ['array'], objectInterno: {objectIterno: 'objeto Interno' }};
+console.log(object);
+console.log(object.boolean); // Acesando só um objeto
+console.log(object.objectInterno);
+
+
+//Desestruturação do objeto
+var string = object.string;
+console.log(string);
+
+var arrayNovoTeste = object.array; // Vai criar uma nova variavel(arrayNovoTeste) e vai passar o valor do array da variável(object0 para nova variável
+console.log(arrayNovoTeste); 
+
+//Outra forma de fazer desestruturação
+var {string, boolean, objectInterno} = object;
+console.log(string,boolean,objectInterno);
+
