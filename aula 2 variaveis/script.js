@@ -98,3 +98,20 @@ console.log(maiorOuIgual);
 var menorOuIgual = 5 <= 2;
 console.log(menorOuIgual);
 
+
+//Operadores Lógicos : 3 tipos  && = "e" todos os valores ficam true
+// || = "ou", considera que qualquer valor seja true
+//! = "não", inverte o valor. true para false e vice-versa.
+
+var e = true && false; // False, poruqe todos valores não são verdadeiros
+console.log(e);
+
+var ou = true || false;
+console.log(ou);
+
+var nao = !true;
+console.log(nao);
+
+
+
+
