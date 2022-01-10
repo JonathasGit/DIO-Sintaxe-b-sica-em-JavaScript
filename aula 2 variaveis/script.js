@@ -80,3 +80,21 @@ console.log(divisaoInteira);
 var potenciacao = 2 ** 10;
 console.log(potenciacao);
 
+//Operadorews Relacionais
+
+//Maior que 
+var maiorQue = 5 > 2;
+console.log(maiorQue);
+
+//Menor que
+var menorQue = 5 < 2;
+console.log(menorQue); 
+
+//Maior ou igual a 
+var maiorOuIgual = 5 >= 2;
+console.log(maiorOuIgual);
+
+//Menor ou igual a  
+var menorOuIgual = 5 <= 2;
+console.log(menorOuIgual);
+
