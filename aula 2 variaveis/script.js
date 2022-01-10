@@ -41,3 +41,21 @@ console.log(constante)
  }
  escopoLocal();
  //console.log(escopoLocalInterno); // Não vai ver a varivel, porque ela é local não global, para resolver isso só colocar o console dentro da funcion
+
+//atribuição 
+var nome1 = 'Jonathas';
+
+//comparação
+var comparacao = '0' == 0;
+console.log(comparacao);
+
+//comparação identica
+var comparacaoIdentica = '0' === 0;
+console.log(comparacaoIdentica);
+
+
+
+//Operadores 
+//adição
+
+var
