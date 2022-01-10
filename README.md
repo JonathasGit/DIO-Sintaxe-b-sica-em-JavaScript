@@ -12,6 +12,7 @@ Funções e suas particularidades<br>
 Aprofundamento em funções<br> 
 
 Com a Professora <a href="https://github.com/dianamartine">Diana Martine</a><br>
+Repositório da professora : <a href="https://github.com/DianaMartine/curso-dio-sintaxe-basica-javascript">Acesse aqui</a>
 
 Certificado - em andamento  <br>
 Curso - Em andamento 
