@@ -35,8 +35,18 @@ for (i of object.propriedade1){
 }
 
 
-// While
+// While = Executa uma instrução "enquanto" determinada condição for verdadedeira
+// A verificação é feita antes da execução;
 while (a < 100) {
     a++;
      console.log(a);
 }
+
+
+//Do while = Executa uma instrução  "até que" determinada condição seja falsa,
+// a verificação é feita depois da execução.
+
+do {
+    a++;
+    console.log(a);
+} while (a < 10);
