@@ -38,3 +38,4 @@ switch (placar) {
         default:
         console.log('Ninguém ganhou');
 }
+
