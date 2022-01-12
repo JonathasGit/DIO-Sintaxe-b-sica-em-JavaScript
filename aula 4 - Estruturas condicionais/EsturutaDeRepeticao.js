@@ -10,6 +10,15 @@ for (let indice = 0 ; indice < array.length; indice++){
     console.log(indice);
 
 }
+// For/in - executa repetição a partir de uma propriedade
+//com array
+for (let i in array){
+    console.log(i);
+}
 
+//com objetct
 
-// For/in - repetição a partir de uma propriedade
+for (i in object) {
+    console.log(i)
+}
+
