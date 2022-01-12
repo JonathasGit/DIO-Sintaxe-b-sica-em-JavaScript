@@ -24,3 +24,17 @@ else {
 
 //if iternário  
 jogador1 != -1 && jogador2 != -1 ? console.log('Os jogadores são válidos') : console.log('Jogadores Inválidos');
+
+
+
+// Como usar o Switch case 
+switch (placar) {
+    case placar = jogador1 > jogador2:
+        console.log('Jogador 1 Ganhou!!!');
+        break;
+    case placar = jogador2 > jogador1:
+        console.log('Jogador 2 Ganhou!!!');
+        break;
+        default:
+        console.log('Ninguém ganhou');
+}
