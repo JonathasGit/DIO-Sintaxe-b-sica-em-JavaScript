@@ -17,8 +17,18 @@ for (let i in array){
 }
 
 //com objetct
-
 for (i in object) {
     console.log(i)
+}
+
+//for/of - Funciona como uma repetição a partir de um valor:
+// Pegando da var Array
+for (i of array) {
+    console.log(i); // cada valor de cada indice do array
+
+}
+// Pegando da variavel object
+for (i of object.propriedade1){
+    console.log(i); // Não da para usar for of com objetos
 }
 
