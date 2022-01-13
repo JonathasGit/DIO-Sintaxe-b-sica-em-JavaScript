@@ -33,4 +33,7 @@ Repositório da professora : <a href="https://github.com/DianaMartine/curso-dio-
 Curso - ✨ Concluído ✨
 
 
-©️ 2022 - :octocat: JonathasGit
+
+![certificado](https://hermes.digitalinnovation.one/certificates/cover/4E15985E.jpg)
+
+<p align="center">©️ 2022 - :octocat: JonathasGit </p>
