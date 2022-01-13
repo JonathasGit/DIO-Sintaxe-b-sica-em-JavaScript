@@ -4,6 +4,7 @@
 <hr>
 Vamos aprender: 
 
+
 1 - Apresentação do Curso<br>
 2 - O que danado é JavaScript<br>
 3 - Entendendo Variáveis e seus valores<br>
@@ -16,5 +17,5 @@ Vamos aprender:
 Com a Professora <a href="https://github.com/dianamartine">Diana Martine</a><br>
 Repositório da professora : <a href="https://github.com/DianaMartine/curso-dio-sintaxe-basica-javascript">Acesse aqui</a>
 
-Certificado - em andamento  <br>
-Curso - Em andamento 
+Certificado - <a href="https://certificates.digitalinnovation.one/4E15985E">Sintaxe Básica em JavaScript</a><br>
+Curso - Concluído 
